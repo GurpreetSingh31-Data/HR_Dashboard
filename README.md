@@ -1,5 +1,5 @@
 # HR_Dashboard
-## Excel  
+## Excel Project
 
   ![Screenshot 2024-08-08 171957](https://github.com/user-attachments/assets/24701fa4-76de-4d31-b297-d628c652ea6c)  
 
