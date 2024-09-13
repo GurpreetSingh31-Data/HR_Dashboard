@@ -5,7 +5,7 @@
 
 # HR Analytics Dashboard Overview  
 
-This HR Analytics dashboard provides key insights into employee metrics within an organization, helping to identify trends related to attrition, demographic factors, and employee satisfaction. Below are the primary insights derived from the data:  
+This HR Analytics dashboard provides key insights into employee metrics within an organization, helping to identify trends related to attrition, demographic factors, and employee satisfaction. Below are the primary insights derived from the data :  
 
 
 ###  1)Key Metrics:
